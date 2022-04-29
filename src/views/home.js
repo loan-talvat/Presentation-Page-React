@@ -114,13 +114,9 @@ const Home = (props) => {
             <span>It&apos;s free.</span>
           </h1>
           <span className="home-text03 section-Text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
-            odio. Praesent libero. Sed cursus ante dapibus diam.c Sed nisi.
-            Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
-            Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris
-            massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti
-            sociosqu ad litora torquent per conubia nostra, per inceptos
-            himenaeos.
+            <span>qweqweqwe</span>
+            <br></br>
+            <span></span>
           </span>
           <button className="home-cta-btn2 anchor button">
             START BUILDING
@@ -135,8 +131,8 @@ const Home = (props) => {
       <div className="home-section-separator"></div>
       <div id="features" className="home-features">
         <div className="home-heading-container">
-          <h2 className="home-text04 section-Heading">Tell your story</h2>
-          <span className="home-text05 section-Text">
+          <h2 className="home-text07 section-Heading">Tell your story</h2>
+          <span className="home-text08 section-Text">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
             odio. Praesent libero. Sed cursus ante dapibus diam.
           </span>
@@ -149,7 +145,7 @@ const Home = (props) => {
               className="home-image3"
             />
             <span className="home-heading1 card-Heading">Why</span>
-            <span className="home-text06 card-Text">
+            <span className="home-text09 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -162,7 +158,7 @@ const Home = (props) => {
               className="home-image4"
             />
             <span className="home-heading2 card-Heading">What</span>
-            <span className="home-text07 card-Text">
+            <span className="home-text10 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -175,7 +171,7 @@ const Home = (props) => {
               className="home-image5"
             />
             <span className="home-heading3 card-Heading">How</span>
-            <span className="home-text08 card-Text">
+            <span className="home-text11 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -186,8 +182,8 @@ const Home = (props) => {
       <div id="services" className="home-services">
         <div className="home-service-card">
           <div className="home-card-content">
-            <h3 className="home-text09 bigCard-Heading">Service dddddddname</h3>
-            <span className="home-text10 card-Text">
+            <h3 className="home-text12 bigCard-Heading">Service dddddddname</h3>
+            <span className="home-text13 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero.
               <span
@@ -201,8 +197,8 @@ const Home = (props) => {
         </div>
         <div className="home-service-card1">
           <div className="home-card-content1">
-            <h3 className="home-text11 bigCard-Heading">coucou</h3>
-            <span className="home-text12 card-Text">
+            <h3 className="home-text14 bigCard-Heading">coucou</h3>
+            <span className="home-text15 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero.
               <span
@@ -216,8 +212,8 @@ const Home = (props) => {
         </div>
         <div className="home-service-card2">
           <div className="home-card-content2">
-            <h3 className="home-text13 bigCard-Heading">acc</h3>
-            <span className="home-text14 card-Text">
+            <h3 className="home-text16 bigCard-Heading">acc</h3>
+            <span className="home-text17 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero.
               <span
@@ -231,8 +227,8 @@ const Home = (props) => {
         </div>
         <div className="home-service-card3">
           <div className="home-card-content3">
-            <h3 className="home-text15 bigCard-Heading">LOANLOANLOANddd</h3>
-            <span className="home-text16 card-Text">
+            <h3 className="home-text18 bigCard-Heading">LOANLOANLOANddd</h3>
+            <span className="home-text19 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero.
               <span
@@ -247,7 +243,7 @@ const Home = (props) => {
       </div>
       <div id="about-us" className="home-about-us">
         <div className="home-heading-container1">
-          <h2 className="home-text17 section-Heading">
+          <h2 className="home-text20 section-Heading">
             What&apos;s the story behind our product?
           </h2>
           <span className="home-secondary-text section-Text">
@@ -260,7 +256,7 @@ const Home = (props) => {
           </button>
         </div>
         <div className="home-text-container">
-          <span className="home-text18 section-Text">
+          <span className="home-text21 section-Text">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -269,7 +265,7 @@ const Home = (props) => {
             pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia deserunt mollit anim id est laborum.
           </span>
-          <span className="home-text19 section-Text">
+          <span className="home-text22 section-Text">
             Sed ut perspiciatis unde omnis iste natus error sit voluptatem
             accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
             quae ab illo inventore veritatis et quasi architecto beatae vitae
@@ -290,7 +286,7 @@ const Home = (props) => {
       </div>
       <div className="home-section-separator1"></div>
       <div className="home-testimonials">
-        <h2 className="home-text20 section-Heading">
+        <h2 className="home-text23 section-Heading">
           What are they saying about us?
         </h2>
         <div className="home-cards-container1">
@@ -333,7 +329,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text21 card-Text">
+            <span className="home-text24 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -378,7 +374,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text22 card-Text">
+            <span className="home-text25 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -423,7 +419,7 @@ const Home = (props) => {
                 </svg>
               </div>
             </div>
-            <span className="home-text23 card-Text">
+            <span className="home-text26 card-Text">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
               nec odio. Praesent libero. Sed cursus ante dapibus diam.c Sed
               nisi. Nulla quis sem at nibh elementum imperdiet.
@@ -433,7 +429,7 @@ const Home = (props) => {
       </div>
       <div id="contact" className="home-contact">
         <div className="home-content-container">
-          <h2 className="home-text24 section-Heading">
+          <h2 className="home-text27 section-Heading">
             This is where to find us
           </h2>
           <div className="home-locations-container">
