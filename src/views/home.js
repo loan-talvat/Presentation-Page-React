@@ -33,6 +33,9 @@ const Home = (props) => {
             <a href="#contact" className="home-link3 anchor">
               contact
             </a>
+                <a href="#contact" className="home-link3 anchor">
+              test depuis github
+            </a>
           </div>
           <div className="home-cta-container">
             <button className="home-cta-btn button anchor"></button>
